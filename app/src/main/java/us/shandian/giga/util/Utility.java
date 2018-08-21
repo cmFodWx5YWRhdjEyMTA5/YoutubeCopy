@@ -8,7 +8,7 @@ import android.support.annotation.DrawableRes;
 import android.support.annotation.Nullable;
 import android.widget.Toast;
 
-import org.schabi.newpipe.R;
+import com.mngh.floattube.R;
 
 import java.io.BufferedInputStream;
 import java.io.File;

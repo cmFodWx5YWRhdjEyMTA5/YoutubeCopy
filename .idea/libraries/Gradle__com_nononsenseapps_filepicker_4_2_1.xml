@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nononsenseapps:filepicker-4.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/filepicker-4.2.1.aar/f359c6a98ae8271930c5d2790ad79f5c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/filepicker-4.2.1.aar/f359c6a98ae8271930c5d2790ad79f5c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nononsenseapps/filepicker/4.2.1/9980397875de37c18d15991c36ed6aae5180e43a/filepicker-4.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

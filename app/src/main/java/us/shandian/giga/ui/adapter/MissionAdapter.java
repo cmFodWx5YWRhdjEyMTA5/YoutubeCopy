@@ -21,7 +21,7 @@ import android.widget.PopupMenu;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import org.schabi.newpipe.R;
+import com.mngh.floattube.R;
 
 import java.io.File;
 import java.util.HashMap;

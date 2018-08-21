@@ -19,9 +19,9 @@ import android.support.v4.content.PermissionChecker;
 import android.util.Log;
 import android.widget.Toast;
 
-import org.schabi.newpipe.R;
-import org.schabi.newpipe.download.DownloadActivity;
-import org.schabi.newpipe.settings.NewPipeSettings;
+import com.mngh.floattube.R;
+import com.mngh.floattube.download.DownloadActivity;
+import com.mngh.floattube.settings.NewPipeSettings;
 
 import java.util.ArrayList;
 
@@ -31,7 +31,7 @@ import us.shandian.giga.get.DownloadManagerImpl;
 import us.shandian.giga.get.DownloadMission;
 import us.shandian.giga.get.sqlite.SQLiteDownloadDataSource;
 
-import static org.schabi.newpipe.BuildConfig.DEBUG;
+import static com.mngh.floattube.BuildConfig.DEBUG;
 
 public class DownloadManagerService extends Service {
 

@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\muicv\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\3dbf3b2834ae34529fb040620033e4fb\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,321,430,516,620,740,816,892,977,1085,1194,1296,1407,1507,1615,1780,1878",
+                        "endColumns": "109,105,108,85,103,119,75,75,84,107,108,101,110,99,107,164,97,79",
+                        "endOffsets": "210,316,425,511,615,735,811,887,972,1080,1189,1291,1402,1502,1610,1775,1873,1953"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,321,430,516,620,740,816,892,977,1085,1194,1296,1407,1507,1615,1780,2201",
+                        "endColumns": "109,105,108,85,103,119,75,75,84,107,108,101,110,99,107,164,97,79",
+                        "endOffsets": "210,316,425,511,615,735,811,887,972,1080,1189,1291,1402,1502,1610,1775,1873,2276"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\src\\main\\res\\values-ur\\strings.xml",
+                    "from": {
+                        "startLines": "5,9,7,4,1,8,6,3,2",
+                        "startColumns": "4,4,4,4,11,4,4,4,4",
+                        "startOffsets": "283,474,377,239,51,428,330,182,129",
+                        "endColumns": "45,61,49,42,83,44,45,55,51",
+                        "endOffsets": "324,531,422,277,123,468,371,233,176"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,26,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1878,1924,1986,2036,2079,2156,2281,2430,2486",
+                        "endColumns": "45,61,49,42,76,44,45,55,51",
+                        "endOffsets": "1919,1981,2031,2074,2151,2196,2322,2481,2533"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\muicv\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\6ef93fb4a3630db9f816cd0e91525e1a\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "2327",
+                        "endColumns": "102",
+                        "endOffsets": "2425"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\muicv\\.gradle\\caches\\transforms-1\\files-1.1\\extension-mediasession-2.7.3.aar\\38b9c0b7271ea6cdf5fd1aa1fffcec05\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,138,220",
+                        "endColumns": "82,81,80",
+                        "endOffsets": "133,215,296"
+                    },
+                    "to": {
+                        "startLines": "13,14,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "886,969,1051",
+                        "endColumns": "82,81,80",
+                        "endOffsets": "964,1046,1127"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\muicv\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.3.aar\\b72b37c049319f6c5038e7d21bb55fd4\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,211,279,350,429,508,586,663,735,820",
+                        "endColumns": "80,74,67,70,78,78,77,76,71,84,65",
+                        "endOffsets": "131,206,274,345,424,503,581,658,730,815,881"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz-rUZ\\values-uz-rUZ.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\muicv\\.gradle\\caches\\transforms-1\\files-1.1\\extension-mediasession-2.7.3.aar\\38b9c0b7271ea6cdf5fd1aa1fffcec05\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,147,232",
+                        "endColumns": "91,84,90",
+                        "endOffsets": "142,227,318"
+                    },
+                    "to": {
+                        "startLines": "13,14,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "932,1024,1109",
+                        "endColumns": "91,84,90",
+                        "endOffsets": "1019,1104,1195"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\muicv\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.3.aar\\b72b37c049319f6c5038e7d21bb55fd4\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,140,215,293,365,444,532,613,700,779,861",
+                        "endColumns": "84,74,77,71,78,87,80,86,78,81,70",
+                        "endOffsets": "135,210,288,360,439,527,608,695,774,856,927"
+                    }
+                }
+            ]
+        }
+    ]
+}

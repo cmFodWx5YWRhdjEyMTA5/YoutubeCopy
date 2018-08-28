@@ -1,0 +1,533 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:126:9-134:20
+	android:grantUriPermissions
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:130:13-47
+	android:authorities
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:128:13-60
+	android:exported
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:129:13-37
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:127:13-67
+manifest
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\cde78bfc484f8063c5a0255bf262422d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho-urlconnection:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-urlconnection-1.5.0.aar\3df6479b4985fbef21b6abd68dedf729\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\58ec3e267667068a9ad2b7afcbca0592\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:17:1-61:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2cc573f9b86ef5b18f6726ded7302236\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.0.aar\d7574fb36561f75803785efd01401ece\AndroidManifest.xml:17:1-22:12
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\filepicker-4.2.1.aar\e0c0071aaa59466be1ac344b8a5582fe\AndroidManifest.xml:7:1-19:12
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\cd820ed596f21b72f6a510928522a824\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\3dbf3b2834ae34529fb040620033e4fb\AndroidManifest.xml:17:1-22:12
+MERGED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:10:6-44:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\e70c165bfb57cd7894e4e6245991185c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\751fd651e3739e1a88766d0009ea7866\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\065537412a3d080dc845cb4d8fac3cc8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.nirhart:ParallaxScroll:dd53d1f9d1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\ParallaxScroll-dd53d1f9d1.aar\a08c423e0c75ee1599bc17aeab474ff0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.3.aar\3f7149f49fe13b123c3ee8bf5559cd2b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\extension-mediasession-2.7.3.aar\38b9c0b7271ea6cdf5fd1aa1fffcec05\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxbinding-2.1.1.aar\4b03abf4c5fa000c0f71363ca37f894e\AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\97a4dfa786b20b7f6c5971b741f9a504\AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\93001906388017cc3b3875dfacb029d9\AndroidManifest.xml:15:1-21:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acabf2bc841ab4398c9acf4149b303a8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\45ab45a61151b46d52f87a802b016ead\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\80ca4349a9881318f3b52637f0fd0b4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.3.aar\c37ce3d6147c45615221569263e5a610\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.3.aar\22981da713ad867be2985ac26bbf8ade\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.3.aar\bc07fd7546851064ea9c171b821fbc32\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.3.aar\b72b37c049319f6c5038e7d21bb55fd4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.3.aar\f1d3aecaee93e4ccb38a66b55b39962c\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\dd2192d346416f106be309f722201f88\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\bd0a8a1c6c176a5e7852613e60b5fa90\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\dbfcc8c4c114976864866ae508d80261\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e1c64a5824c83bb808096be1fb4e0bde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\2d03869b69290e963c449aad612b0e5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\398f12d84249a1a0a36a9d64b3c43120\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\865c5510d5a2cc2807dba5695cf0034a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\30b50e394cb9b6d4f044647d8ee8b426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6ef93fb4a3630db9f816cd0e91525e1a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fb5c3968acbf567101a8c81deac0c4ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65540e452719e29f3233add993ba3454\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd7f36d58ce09ab55ee5feba47b5908c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0cd4ab17dc248c7991124bb5076059ad\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+	package
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:5:5-33
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:10:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:11:22-75
+application
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:13:5-243:19
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\cde78bfc484f8063c5a0255bf262422d\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\cde78bfc484f8063c5a0255bf262422d\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-urlconnection:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-urlconnection-1.5.0.aar\3df6479b4985fbef21b6abd68dedf729\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-urlconnection:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-urlconnection-1.5.0.aar\3df6479b4985fbef21b6abd68dedf729\AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:26:5-59:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:26:5-59:19
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\filepicker-4.2.1.aar\e0c0071aaa59466be1ac344b8a5582fe\AndroidManifest.xml:17:5-20
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\filepicker-4.2.1.aar\e0c0071aaa59466be1ac344b8a5582fe\AndroidManifest.xml:17:5-20
+MERGED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:39:5-43:19
+MERGED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:39:5-43:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\065537412a3d080dc845cb4d8fac3cc8\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\065537412a3d080dc845cb4d8fac3cc8\AndroidManifest.xml:9:5-20
+MERGED from [com.github.nirhart:ParallaxScroll:dd53d1f9d1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\ParallaxScroll-dd53d1f9d1.aar\a08c423e0c75ee1599bc17aeab474ff0\AndroidManifest.xml:12:5-58
+MERGED from [com.github.nirhart:ParallaxScroll:dd53d1f9d1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\ParallaxScroll-dd53d1f9d1.aar\a08c423e0c75ee1599bc17aeab474ff0\AndroidManifest.xml:12:5-58
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\45ab45a61151b46d52f87a802b016ead\AndroidManifest.xml:23:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\45ab45a61151b46d52f87a802b016ead\AndroidManifest.xml:23:5-20
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:17:9-41
+	tools:ignore
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:19:9-44
+	android:logo
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:14:9-28
+activity#com.mngh.floattube.MainActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:27:27-74
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:31:19-86
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:32:13-34:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:33:25-74
+activity#com.mngh.floattube.player.old.PlayVideoActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:37:9-41:45
+	tools:ignore
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:41:13-43
+	android:configChanges
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:40:13-55
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:38:13-57
+service#com.mngh.floattube.player.BackgroundPlayer
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:43:9-49:19
+	android:exported
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:44:13-52
+activity#com.mngh.floattube.player.BackgroundPlayerActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:51:9-54:71
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:54:13-69
+	android:launchMode
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:52:13-60
+activity#com.mngh.floattube.player.PopupVideoPlayerActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:56:9-59:66
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:59:13-64
+	android:launchMode
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:57:13-60
+service#com.mngh.floattube.player.PopupVideoPlayer
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:61:9-63:39
+	android:exported
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:62:13-52
+activity#com.mngh.floattube.player.MainVideoPlayer
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:65:9-69:46
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:68:13-45
+	android:launchMode
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:69:13-44
+	android:configChanges
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:67:13-83
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:66:13-51
+activity#com.mngh.floattube.settings.SettingsActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:71:9-73:47
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:73:13-45
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:72:13-54
+activity#com.mngh.floattube.about.AboutActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:75:9-77:59
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:77:13-57
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:76:13-48
+activity#com.mngh.floattube.history.HistoryActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:79:9-81:61
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:81:13-59
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:80:13-52
+service#com.mngh.floattube.subscription.services.SubscriptionsImportService
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:83:9-84
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:83:18-82
+service#com.mngh.floattube.subscription.services.SubscriptionsExportService
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:84:9-84
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:84:18-82
+activity#com.mngh.floattube.PanicResponderActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:86:9-96:20
+	android:launchMode
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:88:13-48
+	android:noHistory
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:89:13-37
+	android:theme
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:90:13-59
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:87:13-51
+intent-filter#action:name:info.guardianproject.panic.action.TRIGGER+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:91:13-95:29
+action#info.guardianproject.panic.action.TRIGGER
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:92:17-83
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:92:25-81
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:94:17-75
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:94:27-73
+activity#com.mngh.floattube.ExitActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:98:9-101:61
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:100:13-50
+	android:theme
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:101:13-59
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:99:13-41
+activity#com.mngh.floattube.report.ErrorActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:102:9-57
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:102:19-55
+activity#com.mngh.floattube.download.DownloadActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:105:9-108:46
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:107:13-45
+	android:launchMode
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:108:13-44
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:106:13-54
+service#us.shandian.giga.service.DownloadManagerService
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:110:9-82
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:110:18-80
+activity#com.mngh.floattube.util.FilePickerActivityHelper
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:112:9-120:20
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:114:13-45
+	android:theme
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:115:13-55
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:113:13-58
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:116:13-119:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:117:17-76
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:117:25-73
+activity#com.mngh.floattube.ReCaptchaActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:122:9-124:56
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:124:13-54
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:123:13-46
+activity#com.mngh.floattube.RouterActivity
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:136:9-238:20
+	android:label
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:139:13-75
+	android:excludeFromRecents
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:138:13-46
+	android:theme
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:141:13-59
+	android:taskAffinity
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:140:13-36
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:137:13-43
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:m.youtube.com+data:host:www.youtube.com+data:host:youtube.com+data:pathPrefix:/attribution_link+data:pathPrefix:/channel/+data:pathPrefix:/embed/+data:pathPrefix:/playlist+data:pathPrefix:/user/+data:pathPrefix:/v/+data:pathPrefix:/watch+data:scheme:http+data:scheme:https
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:144:13-167:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:145:17-68
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:145:25-66
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:146:17-85
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:146:25-83
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:147:17-76
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:147:25-74
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:150:17-77
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:150:27-75
+data
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:152:17-46
+	android:host
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:154:23-49
+	android:scheme
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:152:23-44
+	android:mimeType
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:236:23-52
+	android:pathPrefix
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:158:23-47
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:youtu.be+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:168:13-180:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:vnd.youtube+data:scheme:vnd.youtube.launch
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:181:13-191:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.hooktube.com+data:host:hooktube.com+data:pathPrefix:/channel/+data:pathPrefix:/embed/+data:pathPrefix:/user/+data:pathPrefix:/v/+data:pathPrefix:/watch+data:scheme:http+data:scheme:https
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:194:13-213:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:m.soundcloud.com+data:host:soundcloud.com+data:host:www.soundcloud.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:216:13-230:29
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:233:13-237:29
+action#android.intent.action.SEND
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:234:17-68
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:234:25-66
+service#com.mngh.floattube.RouterActivity$FetcherService
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:240:9-242:39
+	android:exported
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:242:13-37
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:241:13-58
+uses-sdk
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\cde78bfc484f8063c5a0255bf262422d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-1.5.0.aar\cde78bfc484f8063c5a0255bf262422d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-urlconnection:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-urlconnection-1.5.0.aar\3df6479b4985fbef21b6abd68dedf729\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-urlconnection:1.5.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\stetho-urlconnection-1.5.0.aar\3df6479b4985fbef21b6abd68dedf729\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\58ec3e267667068a9ad2b7afcbca0592\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\58ec3e267667068a9ad2b7afcbca0592\AndroidManifest.xml:20:5-43
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2cc573f9b86ef5b18f6726ded7302236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2cc573f9b86ef5b18f6726ded7302236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.0.aar\d7574fb36561f75803785efd01401ece\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.0.aar\d7574fb36561f75803785efd01401ece\AndroidManifest.xml:20:5-44
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\filepicker-4.2.1.aar\e0c0071aaa59466be1ac344b8a5582fe\AndroidManifest.xml:13:5-15:41
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\filepicker-4.2.1.aar\e0c0071aaa59466be1ac344b8a5582fe\AndroidManifest.xml:13:5-15:41
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\cd820ed596f21b72f6a510928522a824\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.0.aar\cd820ed596f21b72f6a510928522a824\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\3dbf3b2834ae34529fb040620033e4fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\3dbf3b2834ae34529fb040620033e4fb\AndroidManifest.xml:20:5-44
+MERGED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:37:5-42
+MERGED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:37:5-42
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\e70c165bfb57cd7894e4e6245991185c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\e70c165bfb57cd7894e4e6245991185c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\751fd651e3739e1a88766d0009ea7866\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\751fd651e3739e1a88766d0009ea7866\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\065537412a3d080dc845cb4d8fac3cc8\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\065537412a3d080dc845cb4d8fac3cc8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.nirhart:ParallaxScroll:dd53d1f9d1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\ParallaxScroll-dd53d1f9d1.aar\a08c423e0c75ee1599bc17aeab474ff0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.nirhart:ParallaxScroll:dd53d1f9d1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\ParallaxScroll-dd53d1f9d1.aar\a08c423e0c75ee1599bc17aeab474ff0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.3.aar\3f7149f49fe13b123c3ee8bf5559cd2b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.3.aar\3f7149f49fe13b123c3ee8bf5559cd2b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\extension-mediasession-2.7.3.aar\38b9c0b7271ea6cdf5fd1aa1fffcec05\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\extension-mediasession-2.7.3.aar\38b9c0b7271ea6cdf5fd1aa1fffcec05\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxbinding-2.1.1.aar\4b03abf4c5fa000c0f71363ca37f894e\AndroidManifest.xml:6:5-44
+MERGED from [com.jakewharton.rxbinding2:rxbinding:2.1.1] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxbinding-2.1.1.aar\4b03abf4c5fa000c0f71363ca37f894e\AndroidManifest.xml:6:5-44
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\97a4dfa786b20b7f6c5971b741f9a504\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxjava2-1.0.0.aar\97a4dfa786b20b7f6c5971b741f9a504\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\93001906388017cc3b3875dfacb029d9\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.2.aar\93001906388017cc3b3875dfacb029d9\AndroidManifest.xml:19:5-43
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acabf2bc841ab4398c9acf4149b303a8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\acabf2bc841ab4398c9acf4149b303a8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\45ab45a61151b46d52f87a802b016ead\AndroidManifest.xml:21:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-analyzer-1.5.4.aar\45ab45a61151b46d52f87a802b016ead\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\80ca4349a9881318f3b52637f0fd0b4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\80ca4349a9881318f3b52637f0fd0b4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.3.aar\c37ce3d6147c45615221569263e5a610\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.3.aar\c37ce3d6147c45615221569263e5a610\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.3.aar\22981da713ad867be2985ac26bbf8ade\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.3.aar\22981da713ad867be2985ac26bbf8ade\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.3.aar\bc07fd7546851064ea9c171b821fbc32\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.3.aar\bc07fd7546851064ea9c171b821fbc32\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.3.aar\b72b37c049319f6c5038e7d21bb55fd4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.3.aar\b72b37c049319f6c5038e7d21bb55fd4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.3.aar\f1d3aecaee93e4ccb38a66b55b39962c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.3.aar\f1d3aecaee93e4ccb38a66b55b39962c\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\dd2192d346416f106be309f722201f88\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\dd2192d346416f106be309f722201f88\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\bd0a8a1c6c176a5e7852613e60b5fa90\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\bd0a8a1c6c176a5e7852613e60b5fa90\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\dbfcc8c4c114976864866ae508d80261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\dbfcc8c4c114976864866ae508d80261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e1c64a5824c83bb808096be1fb4e0bde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e1c64a5824c83bb808096be1fb4e0bde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\2d03869b69290e963c449aad612b0e5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\2d03869b69290e963c449aad612b0e5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\398f12d84249a1a0a36a9d64b3c43120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\398f12d84249a1a0a36a9d64b3c43120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\865c5510d5a2cc2807dba5695cf0034a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\865c5510d5a2cc2807dba5695cf0034a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\30b50e394cb9b6d4f044647d8ee8b426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\30b50e394cb9b6d4f044647d8ee8b426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6ef93fb4a3630db9f816cd0e91525e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\6ef93fb4a3630db9f816cd0e91525e1a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fb5c3968acbf567101a8c81deac0c4ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\fb5c3968acbf567101a8c81deac0c4ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65540e452719e29f3233add993ba3454\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\65540e452719e29f3233add993ba3454\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd7f36d58ce09ab55ee5feba47b5908c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd7f36d58ce09ab55ee5feba47b5908c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0cd4ab17dc248c7991124bb5076059ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0cd4ab17dc248c7991124bb5076059ad\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:131:13-133:61
+	android:resource
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:133:17-59
+	android:name
+		ADDED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:132:17-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:23:5-80
+IMPLIED from C:\Users\muicv\AndroidStudioProjects\YoutubeCopy\app\src\main\AndroidManifest.xml:2:1-244:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:23:22-77
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:27:9-30:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:30:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:28:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:31:9-34:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:34:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:32:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:36:9-49:20
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:41:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:38:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:40:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:39:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:42:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:37:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:50:9-58:68
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:56:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:55:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:53:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:54:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:58:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:57:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5.4] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\leakcanary-android-1.5.4.aar\eae7464b96899fa0c02abeb33d6fd9a9\AndroidManifest.xml:51:13-93
+activity#org.acra.dialog.CrashReportDialog
+ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:40:9-241
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:40:172-195
+	android:excludeFromRecents
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:40:19-52
+	android:launchMode
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:40:87-122
+	android:theme
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:40:196-239
+	android:finishOnTaskLaunch
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:40:53-86
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:40:123-171
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:42:9-113
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:42:88-111
+	android:exported
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:42:18-42
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\muicv\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\578cd33de4ca54bd53f71a4a1f7d00d3\AndroidManifest.xml:42:43-87

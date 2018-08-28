@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mn-rMN\\values-mn-rMN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\muicv\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.7.3.aar\\b72b37c049319f6c5038e7d21bb55fd4\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,141,216,289,359,434,515,602,682,758,827",
+                        "endColumns": "85,74,72,69,74,80,86,79,75,68,67",
+                        "endOffsets": "136,211,284,354,429,510,597,677,753,822,890"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\muicv\\.gradle\\caches\\transforms-1\\files-1.1\\extension-mediasession-2.7.3.aar\\38b9c0b7271ea6cdf5fd1aa1fffcec05\\res\\values-mn-rMN\\values-mn-rMN.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,140,231",
+                        "endColumns": "84,90,83",
+                        "endOffsets": "135,226,310"
+                    },
+                    "to": {
+                        "startLines": "13,14,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "895,980,1071",
+                        "endColumns": "84,90,83",
+                        "endOffsets": "975,1066,1150"
+                    }
+                }
+            ]
+        }
+    ]
+}

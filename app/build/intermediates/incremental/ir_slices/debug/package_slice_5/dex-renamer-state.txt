@@ -1,0 +1,4 @@
+#Tue Aug 28 16:51:23 ICT 2018
+base.0=C\:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

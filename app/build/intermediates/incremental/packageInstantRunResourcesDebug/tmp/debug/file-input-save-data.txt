@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Tue Aug 28 16:49:57 ICT 2018
+2.base=C\:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\assets\\debug
+0.path=mit.html
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=gpl_3.html
+4.base=C\:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=gpl_2.html
+4.set=ASSET
+3.path=apache2.html
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=mpl2.html
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET

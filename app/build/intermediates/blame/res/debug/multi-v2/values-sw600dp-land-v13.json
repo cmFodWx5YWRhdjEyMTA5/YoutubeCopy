@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\muicv\\AndroidStudioProjects\\YoutubeCopy\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "5,12,13,18,11,16,7,15,14,6,9,8",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "130,577,649,959,507,854,264,779,711,198,402,333",
+                        "endColumns": "66,70,60,59,68,75,67,73,66,64,70,67",
+                        "endOffsets": "192,643,705,1014,571,925,327,848,773,258,468,396"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,193,254,314,383,459,527,601,668,733,804",
+                        "endColumns": "66,70,60,59,68,75,67,73,66,64,70,67",
+                        "endOffsets": "117,188,249,309,378,454,522,596,663,728,799,867"
+                    }
+                }
+            ]
+        }
+    ]
+}
